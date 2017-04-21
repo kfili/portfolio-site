@@ -2,21 +2,9 @@
 
 # Portfolio - kosta.tech
 
-## Dependencies
-
-Install with `npm install`.
-
--   [Webpack](https://webpack.github.io)
--   [Bootstrap](http://getbootstrap.com)
--   [Handlebars.js](http://handlebarsjs.com)
-
-Update the versions in
-[`package.json`](package.json) by replace all versions with a glob (`*`) and
-running `npm update --save && npm update --save-dev`. You may wish to test these
-changes by deleting the `node_modules` directory and running `npm install`.
-Fix any conflicts.
-
-
+## Testing
+Run command in shell:
+```ruby -r un -e httpd . -p 7165```
 
 ## Copyright and License
 
