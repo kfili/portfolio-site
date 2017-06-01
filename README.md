@@ -4,7 +4,7 @@
 
 ## Testing
 Run command in shell:
-```ruby -r un -e httpd . -p 7165```
+ruby -r un -e httpd . -p 7165
 
 ## Copyright and License
 
